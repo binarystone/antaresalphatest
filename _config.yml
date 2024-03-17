@@ -7,5 +7,5 @@ url: "https://antaresalphatest.github.io" # Your GitHub Pages URL
 baseurl: ""
 
 # Build settings
-theme: jekyll-theme-cayman # You can choose any available GitHub Pages theme
 markdown: kramdown # The Markdown processor
+remote_theme: pages-themes/time-machine@v0.2.0
