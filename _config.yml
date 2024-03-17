@@ -1,10 +1,10 @@
 # Basic configuration for a GitHub Pages site
 
 # Site settings
-# title: antaresalphatest
-# description: antaresalphatest
-# url: "https://antaresalphatest.github.io" # Your GitHub Pages URL
-# baseurl: ""
+title: antaresalphatest
+description: antaresalphatest
+url: "antaresalphatest.github.io" # Your GitHub Pages URL
+baseurl: ""
 
 # Build settings
 # markdown: kramdown # The Markdown processor
